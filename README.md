@@ -6,6 +6,7 @@ The platform provides separate functionality for property users/owners and admin
 
 ---
 
+
 ## Project Overview
 
 EstateHub is designed to simplify the process of buying, renting, and listing properties through a centralized web platform.
