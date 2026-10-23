@@ -1,4 +1,4 @@
-# EstateHub – Real Estate Property Portal
+# EstateHub – REAL ESTATE PROPERTY PORTAL 
 
 EstateHub is a full-stack real estate web application that allows users to browse, search, filter, list, manage, and inquire about properties online.
 
