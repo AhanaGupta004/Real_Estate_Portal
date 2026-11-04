@@ -35,6 +35,8 @@ Administrators can:
 
 ---
 
+
+
 ## Features
 
 ### User Features
@@ -48,9 +50,9 @@ Administrators can:
 - Property Details
 - Favorite Properties
 - Contact Property Owner
-- Add Property
-- Edit Property
-- Delete Property
+- Add Properties
+- Edit Properties 
+- Delete Properties
 - Upload Multiple Property Images
 - View My Properties
 - Property Approval Status
